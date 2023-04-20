@@ -9,12 +9,12 @@ The program has the following parameters -
 
 2. Path of the output file on a public location such as AWS S3.
 
-## 1. Loading: 
+## 1. Loading
 
 First step is to load the text file from the path specified in argument 1. After that,
 we remove rows where the text field is null.
 
-## 2. Pre-Processing: Stages:
+## 2. Pre-Processing
 
 • Stop Word Remover: Remove stop-words from the text column
 
@@ -42,7 +42,7 @@ the given dataset and output classification evaluation metrics, such as accuracy
 see details of multi-class evaluation metrics at
 https://spark.apache.org/docs/2.2.0/mllib-evaluation-metrics.html.
 
-## 5. Output: 
+## 5. Output 
 
 Finally, we write the output the classification metrics to a file whose location
 is specified by the second argument.
