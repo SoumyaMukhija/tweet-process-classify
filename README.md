@@ -1,5 +1,13 @@
 # tweet-process-classify
-This has a pipeline for:
+Our aim is to classify Tweets as either “positive”,
+“neutral”, or “negative” by using logistic regression classifier and pipelines for pre-processing
+and model building.
+
+The program has the following parameters -
+
+1. Path of the input file on a public location such as AWS S3.
+
+2. Path of the output file on a public location such as AWS S3.
 
 ## 1. Loading: 
 
