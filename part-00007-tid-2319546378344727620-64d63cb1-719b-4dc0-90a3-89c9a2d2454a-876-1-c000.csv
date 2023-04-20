@@ -1,0 +1,4 @@
+Accuracy,Confusion Matrix,False Positive Rate,False Positive Rate for label 0.0,False Positive Rate for label 1.0,False Positive Rate for label 2.0,Precision,Precision for label 0.0,Precision for label 1.0,Precision for label 2.0,Recall,Score,True Positive Rate,True Positive Rate for label 0.0,True Positive Rate for label 1.0,True Positive Rate for label 2.0
+0.7200270178993583,"DenseMatrix([[1726.,  112.,   41.],
+             [ 370.,  218.,   37.],
+             [ 206.,   63.,  188.]])",0.3584390658264832,0.532347504621072,0.07491438356164383,0.031150159744408944,0.7019677371804502,0.7497827975673328,0.55470737913486,0.706766917293233,0.7200270178993583,0.6946045913249531,0.7200270178993583,0.9185737094199042,0.3488,0.4113785557986871
